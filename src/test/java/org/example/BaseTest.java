@@ -70,5 +70,7 @@ public class BaseTest {
             }
         }
 
+        driver.close(); //  Added Driver close
+
     }
 }
